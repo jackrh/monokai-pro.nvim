@@ -12,7 +12,7 @@ return {
   accent6 = "#ab9df2",     -- Mapped from violet
   dimmed1 = "#c1c0c0",     -- Mapped from base7
   dimmed2 = "#727072",     -- Mapped from grey/base6
-  dimmed3 = "#4c4a4d",     -- Mapped from base5
+  dimmed3 = "#8c8a8d",     -- Mapped from base5
   dimmed4 = "#383539",     -- Mapped from base4
   dimmed5 = "#2b2b2b",     -- Mapped from base3
 }
